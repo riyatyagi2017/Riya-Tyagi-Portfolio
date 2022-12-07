@@ -22,6 +22,9 @@ Wine industry shows a recent growth spurt as social drinking is on the rise. The
 
 ### (You can get the overview of this project by simply clicking on the title of the project)
 
+## [REVIEW PAPER](https://github.com/riyatyagi2017/REVIEW-PAPER/blob/main/README.md)
+### (You can get overview of Review Paper presented in college organized conference.)(Click on the above title)
+
 
 # [RESUME](https://github.com/riyatyagi2017/Riya-Tyagi-Portfolio/blob/main/Riya%20Tyagi_M.Sc%20Data%20Science_2021-23_AUR.doc)
 ## (By clicking on the above title "RESUME" you can download my Resume ### (by clicking on the option view raw))
