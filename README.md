@@ -1,4 +1,13 @@
 # Riya-Tyagi-Portfolio
+
+
+## [A quick introduction about me](https://github.com/riyatyagi2017/riyatyagi2017)
+
+
+
+
+
+
 My Data Science Projects
 
 ## [PROJECT1.Stock-Price-Prediction-Minor-Project-Riya-Tyagi-](https://github.com/riyatyagi2017/Stock-Price-Prediction-Minor-Project-Riya-Tyagi-)
